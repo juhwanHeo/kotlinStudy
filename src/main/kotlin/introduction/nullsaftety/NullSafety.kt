@@ -1,4 +1,4 @@
-package nullsaftety
+package introduction.nullsaftety
 
 fun main() {
     var neverNull: String = "This can't be null"
